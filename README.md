@@ -10,6 +10,19 @@ As the Lead Data Analyst on this project, my mission was to bridge the gap betwe
 
 ---
 
+
+##  Dashboard Preview
+
+### Executive Sales Overview
+![Executive Overview](images/retail_overview_dashboard.png)
+
+### City Performance Analysis
+![City Performance](images/city_performance_analysis.png)
+### Product Line Deep-Dive
+![Product Deep-Dive](images/product_line_deepdive.png)
+
+
+---
 ##  Executive Overview
 
 This workspace is a high-fidelity **Business Intelligence (BI) Dashboard** developed to monitor and optimize regional supermarket performance. Developed as the capstone of my **MSc Data Analytics program at BSBI Berlin**, it focuses on "Storytelling with Data" to drive measurable ROI.
